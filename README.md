@@ -33,8 +33,6 @@ This repository contains all materials related to the comprehensive statistical 
 - Contributors: Mustafa M. Mohamed and Alyaman Massarani
 - Coding Contribution: Mustafa M. Mohamed 
 
-We express our gratitude to The American University in Cairo and our course instructor for the guidance and resources provided to complete this analysis.
+We express our gratitude to our course instructor for the guidance and resources provided to complete this analysis.
 
----
 
-This introduction page is designed to be clear and informative, providing all necessary details to stakeholders and potential contributors, guiding them on how to engage with and utilize the project resources effectively.
